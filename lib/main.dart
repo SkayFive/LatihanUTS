@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Daftar Belanja',
+      title: 'Daftar Narapidana',
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor:  Color.fromARGB(255, 90, 175, 245)),
       ),
